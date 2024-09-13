@@ -15,11 +15,6 @@ I'm Dilip, also known as [@bitscurrent](https://github.com/bitscurrent) on GitHu
 
 ## Connect with Me
 
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/deelep-%D7%93-72b50b276/)
 - 🌐 Personal Website: [Portfolio Website](https://bitscurrent.github.io/portfolio/)
 
-## Let's Collaborate!
 
-I'm always open to collaboration and learning from fellow developers. Feel free to reach out, and let's create something amazing together!
-
-Happy coding! 🚀
