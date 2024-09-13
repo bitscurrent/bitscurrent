@@ -1,20 +1,35 @@
-# Hi there! 👋
 
-I'm Dilip, also known as [@bitscurrent](https://github.com/bitscurrent) on GitHub. Welcome to my coding space!
+# Hi there! 👋  
+I'm **Dilip** (aka [@bitscurrent](https://github.com/bitscurrent)), welcome to my coding space!
 
-## About Me
+## 🚀 About Me  
+I'm a passionate coder focused on **web development** and **electronics engineering**. My journey involves learning new tools and creating innovative projects. I believe in open-source contributions and continuously improving my skills.
 
-- 🌐 I'm a passionate coder interested in web development and I love making electronics.
-- 🌱 I'm currently learning React and in Backend, Node JS and a database mongodb.
-- 📫 How to reach me: [Portfolio](https://bitscurrent.github.io/portfolio/).
+## 🛠️ Tech Stack & Skills  
+- **Frontend**: HTML, CSS, JavaScript, React, Next.js  
+- **Backend**: Node.js, Express, PostgreSQL, MongoDB  
+- **DevOps**: Docker,k8s, AWS (S3), AWS EC2  
+- **Tools**: Git, Linux, VS Code  
+- **Other**: Electronics, IoT, Microcontrollers (Arduino, Raspberry Pi)
 
-## My Coding Journey
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bitscurrent&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bitscurrent&layout=compact&theme=radical)
 
-- 👀 I'm involved in Building QnA forum.
-- 💻 Check out my coding journey on [FreeCodeCamp](https://www.freecodecamp.org/byteberry).
+## 📈 Contributions & Commits  
+[![GitHub Streak](https://streak-stats.demolab.com?user=bitscurrent&theme=radical)](https://git.io/streak-stats)
 
-## Connect with Me
+## 🔥 Latest Projects  
+- 🎥 **Video Upload System**: A video uploading platform with adaptive bitrate streaming using Next.js, AWS S3, and video transcoding.  
+- 🏎️ **Car Reservation System**: Built a seat reservation system with MongoDB, Express, and Next.js.  
+- 📚 **Project QandA**: Developed a full stack web app using React and Node.js for doubt solving with a sleek UI.  
 
-- 🌐 Personal Website: [Portfolio Website](https://bitscurrent.github.io/portfolio/)
+## 🧑‍💻 Latest Commits  
+<!-- Replace with your actual commit activity -->
+- 🔨 **Fixed issues in chunked video uploads** | [Repository Link](#)
+- 🚀 **Added adaptive bitrate streaming support** | [Repository Link](#)
+- 💾 **Improved performance in video transcoding service** | [Repository Link](#)
 
-
+## 🌐 Connect with Me  
+- 💼 [Portfolio Website](https://bitscurrent.github.io/portfolio/)  
+- 🧑‍🏫 [FreeCodeCamp Journey](https://www.freecodecamp.org/byteberry)
