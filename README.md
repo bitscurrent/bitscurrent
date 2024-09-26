@@ -56,10 +56,9 @@ I'm a passionate coder focused on **web development** and **electronics engineer
 
 ## 🧑‍💻 Latest Commits  
 <!-- Replace with your actual commit activity -->
-- 🔨 **Fixed issues in chunked video uploads** | [Repository Link](#)
-- 🚀 **Added adaptive bitrate streaming support** | [Repository Link](#)
-- 💾 **Improved performance in video transcoding service** | [Repository Link](#)
+- 🔨 **Fixed issues in chunked video uploads** | [Repo Link](https://github.com/bitscurrent/high-level-system-design/tree/main/server/transcodeServices)
+- 🚀 **Added adaptive bitrate streaming support** | [Repo Link](https://github.com/bitscurrent/high-level-system-design/tree/main/server/transcodeServices)
 
 ## 🌐 Connect with Me  
-- 💼 [Portfolio Website](https://bitscurrent.github.io/portfolio/)  
+- 💼 [Portfolio Website](https://bitscurrent.github.io/portfolio/)
 - 🧑‍🏫 [FreeCodeCamp Journey](https://www.freecodecamp.org/byteberry)
