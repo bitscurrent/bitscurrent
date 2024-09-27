@@ -1,6 +1,7 @@
 
 # Hi there! 👋  
 I'm **Dilip** (aka [@bitscurrent](https://github.com/bitscurrent)), welcome to my coding space!
+Reach me here dilipboidya.office@gmail.com
 
 ## 🚀 About Me  
 I'm a passionate coder focused on **web development** and **electronics engineering**. My journey involves learning new tools and creating innovative projects. I believe in open-source contributions and continuously improving my skills.
